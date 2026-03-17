@@ -1,8 +1,6 @@
 # Paulo Gabriel 
-
-🔒 Estudando **Segurança da Informação** | Python Enthusiast  
-🕵️‍♂️ Gosto de desafios lógicos (CTFs, enigmas)  
-🌐 Buscando colaborar em projetos de **automação** ou **ethical hacking**  
+🕵️‍♂️ Gosto de desafios lógicos (enigmas)  
+🌐 Buscando colaborar em projetos de **automação** 
 
 ## 📊 GitHub Stats  
 
